@@ -15,3 +15,7 @@
 -[Vision-language-model](https://github.com/ge25nab/Awesome-VLM-AD-ITS)
 ### Stage4. WorldModel世界模型
 -[World-model](https://arxiv.org/abs/1803.10122)
+
+## AV 安全保证AI方向论文
+### 多模态OOD & Benchmark
+- 多模态OOD的方法 https://arxiv.org/pdf/2405.17419
