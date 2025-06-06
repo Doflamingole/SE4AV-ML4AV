@@ -19,3 +19,6 @@
 ## AV 安全保证AI方向论文
 ### 多模态OOD & Benchmark
 - 多模态OOD的方法 https://arxiv.org/pdf/2405.17419
+
+### Causal inference 因果推断
+- 自动驾驶因果推断 https://arxiv.org/pdf/2407.06546
