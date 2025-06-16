@@ -22,3 +22,8 @@
 
 ### Causal inference 因果推断
 - 自动驾驶因果推断 https://arxiv.org/pdf/2407.06546
+
+### Testing of autnomous driving - Stage1
+1. MoDitector: Module-Directed Testing for Autonomous
+Driving Systems https://arxiv.org/pdf/2502.08504
+2. 
